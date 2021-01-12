@@ -1,0 +1,3 @@
+ldap_server = ldaps://company.beta.com:389
+ldap_bind_dn = cn=somedev,ou=company,dc=beta,dc=com
+ldap_pwd = "k%udk423u4%P8=H_"
