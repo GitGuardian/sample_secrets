@@ -2,7 +2,7 @@
 
 ## Introduction
 
-GitGuardian offers the possibility to **scan your repositories' entire git history** for [secrets](https://www.gitguardian.com/secrets-detection), across all git branches.
+GitGuardian offers the possibility to **scan your repositories' entire git history for [secrets](https://www.gitguardian.com/secrets-detection)**, across all git branches.
 
 This repository contains sample secrets for testing purposes. Our recommended procedure is to:
 1. **Fork this repository** to your GitHub user account or to a GitHub organization where you are admin.
